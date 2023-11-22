@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "730675538167",
+    "project_id": "clever-go-d4dfd",
+    "storage_bucket": "clever-go-d4dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730675538167:android:3207d30cbb5767c6960bf2",
+        "android_client_info": {
+          "package_name": "clevergo.apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730675538167-h47corqpd21oneclgu3n03ngelsep51h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "clevergo.apk",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "730675538167-njcp0at2t9go9uqgco41g6etdm79buf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBivog4ilFPaUKLl1n5ut-fV5mZqYe7XzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730675538167-njcp0at2t9go9uqgco41g6etdm79buf9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730675538167-am4jil3f55djoaig3kak25d0ceak6chq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "clevergo.apk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
